@@ -17,42 +17,88 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a third year Ph.D. student at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).  Before that, I received my Bachelor degree from Zhiyuan College of [SJTU](https://www.sjtu.edu.cn/) in 2021.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from training process, loss landscape, generalization and application, and also the interpretability of large language models.
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+\* denotes equal contribution, † denotes corresponding author, see full list in [Google Scholar](https://scholar.google.com/citations?user=0Q6lKJ8AAAAJ&hl=zh-CN).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pic5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Implicit Regularization of Dropout](https://ieeexplore.ieee.org/abstract/document/10412142)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhongwang Zhang**, Zhi-Qin John Xu†
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper proposes a theoretical derivation of an implicit regularization of dropout, which is validated through experiments and numerically studied to understand how dropout improves generalization during neural network training by promoting weight condensation and finding flatter solutions.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2024</div><img src='images/pic4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+[Stochastic Modified Equations and Dynamics of Dropout Algorithm](https://openreview.net/pdf?id=Bpkhu2ExxU)
+
+**Zhongwang Zhang**, Yuqing Li†, Tao Luo†, Zhi-Qin John Xu†
+
+- This paper proposes a rigorous theoretical derivation of the stochastic modified equations to approximate the discrete iterative process of dropout and empirically investigates the mechanisms by which dropout facilitates the identification of flatter minima through intuitive approximations exploiting the structural analogies in the Hessian of loss landscape and the covariance of dropout.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pic3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing](https://arxiv.org/pdf/2405.05409)
+
+**Zhongwang Zhang**, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu†
+
+- This paper investigates the mechanisms of how transformers behave on unseen compositional tasks using anchor functions, revealing that the parameter initialization scale determines whether the model learns inferential solutions that capture the underlying compositional primitives or symmetric solutions that simply memorize mappings, and provides insights into the role of initialization scale in shaping the type of solution learned and their ability to generalize compositional functions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2024</div><img src='images/pic2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anchor function: a type of benchmark functions for studying language models](https://arxiv.org/pdf/2401.08309)
+
+**Zhongwang Zhang\***, Zhiwei Wang\*, Junjie Yao, Zhangchen Zhou, Xiaolong Li, Weinan E, Zhi-Qin John Xu†
+
+- This paper introduces the concept of an anchor function, a type of benchmark function designed for studying language models in learning tasks that follow an "anchor-key" pattern, which serves as a valuable and accessible framework for exploring various tasks, and demonstrates its utility by revealing two basic operations by attention structures in language models: shifting tokens and broadcasting one token from one position to many positions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2021 spotlight</div><img src='images/pic1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Embedding principle of loss landscape of deep neural networks](https://proceedings.neurips.cc/paper_files/paper/2021/file/7cc532d783a7461f227a5da8ea80bfe1-Paper.pdf)
+
+Yaoyu Zhang†, **Zhongwang Zhang**, Tao Luo, Zhi-Qin John Xu†
+
+- This paper proves an embedding principle that the loss landscape of a deep neural network (DNN) contains all the critical points of narrower DNNs, and proposes a critical embedding such that any critical point of a narrower DNN can be embedded to a critical point/affine subspace of the target DNN with higher degeneracy while preserving the DNN output function, providing a new perspective to study the general easy optimization of wide DNNs and unraveling a potential implicit low-complexity regularization during training.
+</div>
+</div>
+
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - now*, Ph.D., School of Mathematical Sciences, Shanghai Jiao Tong Univeristy. 
+- *2017.09 - 2021.06*, Undergraduate, Zhiyuan College, Shanghai Jiao Tong Univeristy.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
