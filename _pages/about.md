@@ -63,7 +63,7 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2024</div><img src='images/pic2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pic2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Anchor function: a type of benchmark functions for studying language models](https://arxiv.org/pdf/2401.08309)
