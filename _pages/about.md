@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third year Ph.D. student at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).  Before that, I received my Bachelor degree from Zhiyuan College of [SJTU](https://www.sjtu.edu.cn/) in 2021.
+I am a fourth-year Ph.D. student at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).  Before that, I received my Bachelor's degree from Zhiyuan College of [SJTU](https://www.sjtu.edu.cn/) in 2021.
 
-I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from training process, loss landscape, generalization and application, and also the interpretability of large language models.
+I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from the training process, loss landscape, generalization and application, and also the interpretability of large language models.
 
 
 <!-- # 🔥 News
@@ -28,7 +28,7 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 
 # 📝 Publications 
 
-\* denotes equal contribution, † denotes corresponding author, see full list in [Google Scholar](https://scholar.google.com/citations?user=0Q6lKJ8AAAAJ&hl=zh-CN).
+\* denotes equal contribution, † denotes corresponding author, see the full list in [Google Scholar](https://scholar.google.com/citations?user=0Q6lKJ8AAAAJ&hl=zh-CN).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pic5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,8 +93,8 @@ Yaoyu Zhang†, **Zhongwang Zhang**, Tao Luo, Zhi-Qin John Xu†
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D., School of Mathematical Sciences, Shanghai Jiao Tong Univeristy. 
-- *2017.09 - 2021.06*, Undergraduate, Zhiyuan College, Shanghai Jiao Tong Univeristy.
+- *2021.09 - now*, Ph.D., School of Mathematical Sciences, Shanghai Jiao Tong University. 
+- *2017.09 - 2021.06*, Undergraduate, Zhiyuan College, Shanghai Jiao Tong University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
