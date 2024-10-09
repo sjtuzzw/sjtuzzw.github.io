@@ -19,7 +19,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. student at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).  Before that, I received my Bachelor's degree from Zhiyuan College of [SJTU](https://www.sjtu.edu.cn/) in 2021.
 
-I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from the training process, loss landscape, generalization and application, and also the interpretability of large language models.
+I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from the training process, loss landscape, generalization and application, and also the interpretability of large language models. If you're interested in my research, please feel free to contact me through any available means.
 
 
 # 🔥 News
