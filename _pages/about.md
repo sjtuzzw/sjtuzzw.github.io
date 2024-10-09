@@ -23,8 +23,10 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 
 
 <!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.09*: &nbsp;🎉🎉 I won the 2024 China National Scholarship!
+- *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024!
+- *2024.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2024!
+- *2024.01*: &nbsp;🎉🎉 One paper accepted to TPAMI!
 
 # 📝 Publications 
 
