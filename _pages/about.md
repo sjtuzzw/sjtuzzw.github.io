@@ -22,7 +22,7 @@ I am a fourth-year Ph.D. student at [School of Mathematical Sciences](https://ma
 I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from the training process, loss landscape, generalization and application, and also the interpretability of large language models.
 
 
-<!-- # 🔥 News
+# 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I won the 2024 China National Scholarship!
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024!
 - *2024.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2024!
