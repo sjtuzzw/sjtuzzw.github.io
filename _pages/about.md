@@ -23,23 +23,22 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 
 {% raw %}
 <script>
-    document.getElementById('wechat-link').addEventListener('click', function(e) {
-        e.preventDefault(); // 阻止链接的默认行为
-        document.getElementById('wechat-overlay').style.display = 'block';
-    });
-    document.getElementById('wechat-close').addEventListener('click', function() {
-        document.getElementById('wechat-overlay').style.display = 'none';
+    // 确保脚本在 DOM 加载后执行
+    document.addEventListener('DOMContentLoaded', function() {
+        document.getElementById('wechat-link').addEventListener('click', function(e) {
+            e.preventDefault(); // 阻止链接的默认行为
+            document.getElementById('wechat-overlay').style.display = 'block';
+        });
     });
 </script>
 {% endraw %}
 
 <div id="wechat-overlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background: rgba(0,0,0,0.5); z-index:1000;">
     <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); background:white; padding:20px; text-align:center;">
-        <img src="/images/wechat-qrcode.jpg" alt="WeChat QR Code" style="width: 200px; height: auto;">
-        <br><button id="wechat-close">Close</button>
+        <img src="/images/wechat-qrcode.jpg" alt="WeChat QR Code" style="width: 400px; height: auto;">
+        <br><button onclick="document.getElementById('wechat-overlay').style.display='none';">Close</button>
     </div>
 </div>
-
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I won the 2024 China National Scholarship!
