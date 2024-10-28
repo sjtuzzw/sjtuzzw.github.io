@@ -30,7 +30,7 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 {% endraw %}
 
 <div id="wechat-qrcode" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); z-index:1000; background:white; padding:10px; border:1px solid #ccc;">
-    <img src="/images/wechat-qrcode.jpg" alt="WeChat QR Code" style="max-width: 30%; height: auto;">
+    <img src="/images/wechat-qrcode.jpg" alt="WeChat QR Code" style="max-width: 10%; height: auto;">
     <br><button onclick="document.getElementById('wechat-qrcode').style.display='none';">Close</button>
 </div>
 
