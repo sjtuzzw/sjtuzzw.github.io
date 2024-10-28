@@ -19,7 +19,15 @@ redirect_from:
 
 I am a fourth-year Ph.D. student at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).  Before that, I received my Bachelor's degree from Zhiyuan College of [SJTU](https://www.sjtu.edu.cn/) in 2021.
 
-I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from the training process, loss landscape, generalization and application, and also the interpretability of large language models. If you're interested in my research, please feel free to contact me ([Wechat](#){:onclick="document.getElementById('wechat-qrcode').style.display='block';"}).
+I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhiqin/). My research interests are in understanding deep learning from the training process, loss landscape, generalization and application, and also the interpretability of large language models. If you're interested in my research, please feel free to contact me ([Wechat](#)).
+
+{% raw %}
+<script>
+    document.querySelector("[href='#']").onclick = function() {
+        document.getElementById('wechat-qrcode').style.display = 'block';
+    };
+</script>
+{% endraw %}
 
 <div id="wechat-qrcode" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%); z-index:1000; background:white; padding:10px; border:1px solid #ccc;">
     <img src="/images/wechat-qrcode.jpg" alt="WeChat QR Code" style="max-width: 100%; height: auto;">
