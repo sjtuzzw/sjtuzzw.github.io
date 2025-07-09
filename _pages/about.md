@@ -42,7 +42,7 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our project WebSailor topped GitHub trending!​​ 
-- *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024 spotlight!
+- *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2025 spotlight!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted to JCM (T1 journal in computational mathematics)!
 - *2024.09*: &nbsp;🎉🎉 I won the 2024 China National Scholarship!
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024!
