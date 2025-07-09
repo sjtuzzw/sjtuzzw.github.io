@@ -41,6 +41,9 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 </div>
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our project WebSailor topped GitHub trending!​​ 
+- *2025.05*: &nbsp;🎉🎉 One paper accepted to ICML 2024 spotlight!
+- *2025.02*: &nbsp;🎉🎉 One paper accepted to JCM (T1 journal in computational mathematics)!
 - *2024.09*: &nbsp;🎉🎉 I won the 2024 China National Scholarship!
 - *2024.09*: &nbsp;🎉🎉 One paper accepted to NeurIPS 2024!
 - *2024.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2024!
@@ -49,6 +52,28 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 # 📝 Publications 
 
 \* denotes equal contribution, † denotes corresponding author, see the full list in [Google Scholar](https://scholar.google.com/citations?user=0Q6lKJ8AAAAJ&hl=zh-CN).
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pic7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592v1)
+
+Kuan Li\*, **Zhongwang Zhang\***, Huifeng Yin\*†, Liwen Zhang\*, Litu Ou\*, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang†, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou
+
+- This paper presents ​​WebSailor​​, a framework for training superhuman web agents that excel at complex reasoning tasks. Key innovations include: (1) ​​SailorFog-QA​​, a synthetic dataset with high-uncertainty questions generated via graph-based sampling and obfuscation; (2) ​​Reconstructed reasoning trajectories​​ that distill expert solutions into concise action plans; and (3) ​​Duplicating Sampling Policy Optimization (DUPO)​​, an RL method that accelerates training for long-horizon tasks. WebSailor models outperform existing open-source agents and rival proprietary systems on highly challenging  benchmarks like BrowseComp. ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pic6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Analysis for Reasoning Bias of Language Models with Small Initialization](https://arxiv.org/abs/2502.04375)
+
+Junjie Yao, **Zhongwang Zhang†**, Zhi-Qin John Xu†
+
+- This paper reveals how initialization scales shape transformer-based models' task preferences: smaller scales induce reasoning bias through structured embeddings, while larger scales promote memorization. We attribute this to differential label-driven embedding dynamics, validated theoretically and empirically across architectures.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pic5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,17 +108,6 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/pic2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Anchor function: a type of benchmark functions for studying language models](https://arxiv.org/pdf/2401.08309)
-
-**Zhongwang Zhang\***, Zhiwei Wang\*, Junjie Yao, Zhangchen Zhou, Xiaolong Li, Weinan E, Zhi-Qin John Xu†
-
-- This paper introduces the concept of an anchor function, a type of benchmark function designed for studying language models in learning tasks that follow an "anchor-key" pattern, which serves as a valuable and accessible framework for exploring various tasks, and demonstrates its utility by revealing two basic operations by attention structures in language models: shifting tokens and broadcasting one token from one position to many positions.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2021 spotlight</div><img src='images/pic1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,9 +122,9 @@ Yaoyu Zhang†, **Zhongwang Zhang**, Tao Luo, Zhi-Qin John Xu†
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards -->
+- *2024.09* I won the 2024 China National Scholarship!
+
 
 # 📖 Educations
 - *2021.09 - now*, Ph.D., School of Mathematical Sciences, Shanghai Jiao Tong University. 
@@ -118,7 +132,8 @@ Yaoyu Zhang†, **Zhongwang Zhang**, Tao Luo, Zhi-Qin John Xu†
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2025.04 - now*, Tongyi Lab, Alibaba Group.
+- *2024.04 - 2025.04*, Institute for Advanced Algorithms Research.
