@@ -53,7 +53,7 @@ I am currently advised by Prof. [Zhiqin Xu](https://ins.sjtu.edu.cn/people/xuzhi
 
 \* denotes equal contribution, † denotes corresponding author, see the full list in [Google Scholar](https://scholar.google.com/citations?user=0Q6lKJ8AAAAJ&hl=zh-CN).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pic7.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/pic7.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592v1)
@@ -64,7 +64,7 @@ Kuan Li\*, **Zhongwang Zhang\***, Huifeng Yin\*†, Liwen Zhang\*, Litu Ou\*, Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/pic6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2025 spotlight</div><img src='images/pic6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Analysis for Reasoning Bias of Language Models with Small Initialization](https://arxiv.org/abs/2502.04375)
